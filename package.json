@@ -1,0 +1,11 @@
+{
+  "name": "mongo-test",
+  "version": "1.0.0",
+  "description": "Test repo to prove out a potential discriminator bug",
+  "main": "index.js",
+  "author": "Chris James",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "4.12.3"
+  }
+}
